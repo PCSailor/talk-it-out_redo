@@ -1,3 +1,4 @@
+Open index.html, look at console log
 # Peer Programming Challenge - Javascript - 1
 Welcome to your first peer challenge!
 
